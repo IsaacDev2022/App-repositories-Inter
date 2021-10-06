@@ -11,3 +11,12 @@
   <li> SearchVew </li>
   <li> Retrofit - Github API </li>
 </ul>
+<hr>
+<h3> Algumas imagens da aplicação: </h3>
+<div>
+  <img src="https://user-images.githubusercontent.com/56280877/136231558-cf1c5462-d12d-43b2-9fb0-e7b4db25e251.jpg" width="200px" />
+
+  <img src="https://user-images.githubusercontent.com/56280877/136231621-c9e26ac8-6528-4d79-a4fe-e4740623c3ec.jpg" width="200px" />
+
+  <img src="https://user-images.githubusercontent.com/56280877/136231674-e66a2330-1d53-49d8-a3a3-0c236fbc58a5.png" width="200px" />
+</div>
